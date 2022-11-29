@@ -13,3 +13,6 @@ python .\main.py --source_directory F:\Twitter_n_Insta\Test\ --destination_direc
 
 ## How are duplicate files handled ?
 In case a file with the same name is present in destination directory then the copy is skipped
+
+## Detailed Video Tutorial Available
+https://youtu.be/n2XXSC_0RkM
